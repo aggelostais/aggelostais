@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Graduate of Electrical & Computer Engineering at National Technical University of Athens (GPA: 8.74/10, 5-year Integrated M.Eng Diploma Degree, 2017-2023)
+- 🎓 Graduate of Electrical & Computer Engineering at National Technical University of Athens (GPA: 8.74/10, 5-year Integrated M.Eng Diploma, 2017-2023)
 - 👀 Interested in Machine Learning, Cybersecurity, Software Development and Human Computer Interaction.
 - 📫 How to reach me: aggelosstaisv@gmail.com
 
@@ -39,18 +39,11 @@ Here are some ideas to get you started:
      <a href="https://www.swi-prolog.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_prolog.svg?sanitize=true" alt="prolog" width="40" height="40"/>
   </a>
- 
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://sqlite.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="40" height="40"/>
-  </a>  
-  <a href="https://mariadb.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a>
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
@@ -67,8 +60,6 @@ Here are some ideas to get you started:
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="css3" width="70" height="40"/>
   </a>
-  
-  
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -78,9 +69,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> 
