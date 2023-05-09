@@ -30,12 +30,27 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
+    <a href="https://www.gnu.org/software/libc/manual/html_node/ISO-C.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> 
+  </a>
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp" width="40" height="40"/> 
   </a>
+  <a href="https://www.java.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/el/d/d0/Java.svg" alt="java" width="40" height="40"/> 
+  </a> 
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python3" width="40" height="40"/> 
   </a> 
+    <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="css3" width="70" height="40"/>
+  </a>
      <a href="https://www.swi-prolog.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_prolog.svg?sanitize=true" alt="prolog" width="40" height="40"/>
   </a>
@@ -44,21 +59,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/libc/manual/html_node/ISO-C.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/el/d/d0/Java.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="css3" width="70" height="40"/>
   </a>
 </p>
 
