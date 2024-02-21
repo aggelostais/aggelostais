@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Graduate of Electrical & Computer Engineering at National Technical University of Athens (GPA: 8.74/10, 5-year Integrated M.Eng Diploma, 2017-2023)
-- 👀 Interested in Machine Learning, Cybersecurity, Software Development, Computer Networks and Human Computer Interaction.
+- 👀 Interested in Software Development, Machine Learning, Cybersecurity and Human Computer Interaction.
 - 📫 How to reach me: aggelosstaisv@gmail.com
 
 <div>
